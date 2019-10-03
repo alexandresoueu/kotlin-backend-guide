@@ -71,9 +71,9 @@ Requisitos para Kotlin Backend Intermediário:
 
 ### Intro to Functional
 
-* Referential Transparency
-* Arity
-* Purity
+* Referential Transparency - [Functional Kotlin - O'Reilly PAGO](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=22&cad=rja&uact=8&ved=2ahUKEwi_u8PlooHlAhVgGbkGHSjXBcEQFjAVegQICRAB&url=https%3A%2F%2Fwww.oreilly.com%2Flibrary%2Fview%2Ffunctional-kotlin%2F9781788476485%2Fdcf49fd5-d7ca-465d-b770-b384f7b8b702.xhtml&usg=AOvVaw3UHddWMu99-tBq5YbEwJds)
+* Arity - [Big Arity](https://kotlinlang.org/docs/reference/whatsnew13.html#functions-with-big-arity)
+* Purity - [Purity and Pure Functions](https://jorgecastillo.dev/kotlin-purity-and-function-memoization)
 
 ### Delegates
 
