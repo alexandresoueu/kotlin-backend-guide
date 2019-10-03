@@ -61,9 +61,9 @@ Requisitos para Kotlin Backend Intermediário:
 
 ### NULL-SAFETY
 
-* Modifers
-* Operators
-* Types
+* Modifers - [Packages, Constructors, Classes and Interfaces](https://kotlinlang.org/docs/reference/visibility-modifiers.html#visibility-modifiers)
+* Operators - [Operators and Special Symbols](https://kotlinlang.org/docs/reference/keyword-reference.html#operators-and-special-symbols)
+* Types - [Representation, Floating point numbers comparison, Booleans, Arrays](https://kotlinlang.org/docs/reference/basic-types.html#representation)
 
 ### Generics
 
