@@ -67,9 +67,7 @@ Requisitos para Kotlin Backend Intermediário:
 
 ### Generics
 
-* In
-* Out
-* Where
+* Generics - [IN, OUT, WHERE](https://kotlinlang.org/docs/reference/generics.html#generics)
 
 ### Intro to Functional
 
