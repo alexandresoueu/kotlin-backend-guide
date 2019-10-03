@@ -30,7 +30,7 @@ Requisitos para Kotlin Backend Básico:
 
 ### Interface
 
-* Default implementation
+* Default implementation - [Implementing, Properties, Inheritance](https://kotlinlang.org/docs/reference/interfaces.html)
 
 ### Testing
 
