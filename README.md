@@ -50,14 +50,14 @@ Requisitos para Kotlin Backend Intermediário:
 
 ### Functions
 
-* Default Parameters
-* Extension Functions
-* High-order Functions
-* Currying
-* Inline
-* Infix
-* Operator overloading
-* Lambda properties
+* Default Parameters - [Parameters](https://kotlinlang.org/docs/reference/functions.html#parameters)
+* Extension Functions - [Extensions](https://kotlinlang.org/docs/reference/extensions.html#extension-functions)
+* High-order Functions - [High-order](https://kotlinlang.org/docs/reference/lambdas.html#higher-order-functions)
+* Currying - [Currying Technique](https://en.proft.me/2018/08/12/currying-function-kotlin/)
+* Inline - [Inline function](https://kotlinlang.org/docs/reference/inline-functions.html#inline-functions)
+* Infix - [Infix Notation](https://kotlinlang.org/docs/reference/functions.html#infix-notation)
+* Operator overloading - [Overloading](https://kotlinlang.org/docs/reference/operator-overloading.html#operator-overloading)
+* Lambda properties - [Properties Lambdas](https://kotlinlang.org/docs/reference/lambdas.html#lambda-expressions-and-anonymous-functions)
 
 ### NULL-SAFETY
 
