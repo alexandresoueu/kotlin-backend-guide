@@ -4,9 +4,9 @@
 
 Requisitos para Kotlin Backend Setting Up:
 
-* IDE
-* REPL
-* CLI
+* IDE - [IntelliJ](https://www.jetbrains.com/idea/)
+* REPL - [Running Code Snippets](https://kotlinlang.org/docs/tutorials/quick-run.html)
+* CLI - [Command Line](https://kotlinlang.org/docs/tutorials/command-line.html)
 
 ## Kotlin Backend Básico
 
@@ -14,11 +14,11 @@ Requisitos para Kotlin Backend Básico:
 
 ### Básico
 
-* Packages
-* Control Structures
-* Basic Types
-* Comments
-* Returns
+* Packages - [Packages and Imports](https://kotlinlang.org/docs/reference/packages.html)
+* Control Structures - [Control Flow: if, when, for, while](https://kotlinlang.org/docs/reference/control-flow.html)
+* Basic Types - [Numbers, Operations, Characters, Booleans, Arrays, Strings, String templates](https://kotlinlang.org/docs/reference/basic-types.html)
+* Comments - [Block and Inline](https://kotlinlang.org/docs/reference/basic-types.html)
+* Returns - [Returns, Jumps, Break](https://kotlinlang.org/docs/reference/basic-types.html)
 
 ### Classes
 
