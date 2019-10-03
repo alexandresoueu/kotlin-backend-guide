@@ -23,10 +23,10 @@ Requisitos para Kotlin Backend Básico:
 ### Classes
 
 * Regular Class
-* Data Class
-* Sealed Class
-* Object
-* Inline
+* Data Class - [Data Classes](https://kotlinlang.org/docs/reference/data-classes.html#data-classes)
+* Sealed Class - [Sealed Classes](https://kotlinlang.org/docs/reference/sealed-classes.html#sealed-classes)
+* Object - [Object Expressions, Object Declarations, Companion Objects](https://kotlinlang.org/docs/reference/object-declarations.html)
+* Inline - [Members, Inheritance, Representation, Mangling](https://kotlinlang.org/docs/reference/inline-classes.html)
 
 ### Interface
 
