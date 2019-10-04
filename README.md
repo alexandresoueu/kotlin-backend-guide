@@ -1,6 +1,6 @@
-# Níveis de carreira de um(a) Kotlin Engineer
+# Níveis de carreira de um(a) Kotlin Backend Developer
 
-## Kotlin Backend Setting Up*
+## Kotlin Backend Setting Up
 
 Requisitos para Kotlin Backend Setting Up:
 
