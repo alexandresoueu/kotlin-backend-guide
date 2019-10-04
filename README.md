@@ -77,11 +77,11 @@ Requisitos para Kotlin Backend Intermediário:
 
 ### Delegates
 
-* Properties
-* Map
-* Local
-* Class
-* Custom
+* Properties - [Properties and Fields](https://jorgecastillo.dev/kotlin-purity-and-function-memoization)
+* Map - [Maps](https://kotlinlang.org/docs/reference/delegated-properties.html#storing-properties-in-a-map)
+* Local - [Local Delegated Properties](https://kotlinlang.org/docs/reference/delegated-properties.html#local-delegated-properties-since-11)
+* Class - [*]
+* Custom - [Custom Exercise](https://try.kotlinlang.org/#/Examples/Delegated%20properties/Custom%20delegate/Custom%20delegate.kt)
 
 ### Other Topics 
 
