@@ -98,8 +98,8 @@ Requisitos para Kotlin Developer Avançado:
 
 ### DSL
 
-* Constructs
-* DSLMarker
+* Constructs - [Constructs](https://medium.com/movile-tech/criando-sua-pr%C3%B3pria-dsl-utilizando-express%C3%B5es-lambda-em-kotlin-ea552497da33)
+* DSLMarker - [DSLMarker](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-dsl-marker/index.html#dslmarker)
 
 ### Coroutines
 
