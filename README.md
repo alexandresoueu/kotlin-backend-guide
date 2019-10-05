@@ -104,11 +104,11 @@ Requisitos para Kotlin Developer Avançado:
 ### Coroutines
 
 * Constructors
-* Channels
-* Contexts
-* Thread-safety
-* Mutexes
-* Actors
+* Channels - [Channels](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwj__quUtIXlAhUWGLkGHSHWAucQFjAAegQIBBAB&url=https%3A%2F%2Fkotlinlang.org%2Fdocs%2Freference%2Fcoroutines%2Fchannels.html&usg=AOvVaw2sm89DpyJag31uaMy6yEU3)
+* Contexts - [Contexts](https://kotlinlang.org/docs/reference/coroutines/coroutine-context-and-dispatchers.html#coroutine-context-and-dispatchers)
+* Thread-safety - [Thread-safety](https://kotlinlang.org/docs/reference/coroutines/coroutine-context-and-dispatchers.html#dispatchers-and-threads)
+* Mutexes - [Mutexes](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjP2cHJtIXlAhUXJrkGHYZEB0AQFjAAegQIABAB&url=https%3A%2F%2Fkotlin.github.io%2Fkotlinx.coroutines%2Fkotlinx-coroutines-core%2Fkotlinx.coroutines.sync%2F-mutex%2F&usg=AOvVaw3Y5RgUgQynAwY90P8r-PsH)
+* Actors - [Actors](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwiwzavbtIXlAhUeILkGHWI1C-4QFjABegQIAhAB&url=https%3A%2F%2Fkotlin.github.io%2Fkotlinx.coroutines%2Fkotlinx-coroutines-core%2Fkotlinx.coroutines.channels%2Factor.html&usg=AOvVaw3bMmH83--TF8Bgfs49gSqf)
 
 ### Multiplataform
 
