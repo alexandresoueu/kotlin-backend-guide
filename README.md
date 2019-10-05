@@ -83,12 +83,12 @@ Requisitos para Kotlin Developer Intermediário:
 
 ### Other Topics 
 
-* BDD
-* Contracts
-* Sequences 
-* Annotations
-* Reflection
-* Type-safe builders
+* BDD -[Trabalhando com BDD em Kotlin](https://medium.com/@lucasluiz/trabalhando-com-bdd-em-kotlin-258239b2b6f0)
+* Contracts - [Understanding Kotlin contracts](https://blog.kotlin-academy.com/understanding-kotlin-contracts-f255ded41ef2)
+* Sequences - [Sequences](https://kotlinlang.org/docs/reference/sequences.html#sequences)
+* Annotations - [Annotations](https://kotlinlang.org/docs/reference/annotations.html#annotations)
+* Reflection - [Reflection](https://kotlinlang.org/docs/reference/reflection.html#reflection)
+* Type-safe builders - [Type-safe builders](https://kotlinlang.org/docs/reference/type-safe-builders.html#type-safe-builders)
 
 Se você já domina tudo isso, então você deve estar no nível **Avançado** ou chegando lá.
 
