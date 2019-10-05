@@ -117,10 +117,10 @@ Requisitos para Kotlin Developer Avançado:
 
 ### Libs
 
-* Arrow
-* Anko (Android)
+* Arrow -[Arrow](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjMwe_5tYXlAhVIHLkGHRyMCFsQFjAAegQIARAB&url=https%3A%2F%2Farrow-kt.io%2F&usg=AOvVaw00bLLMZvt_skRIDFi86GXE)
+* Anko (Android) 
 * Ktx (Android)
-* Ktor
-* Spek
+* Ktor - [Ktor](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwifrrKOtoXlAhULGbkGHY0BAa0QFjAAegQIARAB&url=https%3A%2F%2Fktor.io%2F&usg=AOvVaw3Cf62B3W-sO2HW_1A-0nnn)
+* Spek - [Spek](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwiK2YCdtoXlAhXVHrkGHXIkDFwQFjAAegQIBBAB&url=https%3A%2F%2Fspekframework.org%2F&usg=AOvVaw3ySHkDZ-x3aylB_RQiiGIR)
 
 Se você já domina tudo isso, então você pode ajudar outras pessoas ***Alcançarem*** o mesmo nível que você. :D
