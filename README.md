@@ -1,6 +1,6 @@
-# Níveis de carreira de um(a) Kotlin Backend Developer
+# Níveis de carreira de um(a) Kotlin Developer
 
-## Kotlin Backend Setting Up
+## Kotlin Developer Setting Up
 
 Requisitos para Kotlin Backend Setting Up:
 
@@ -8,9 +8,9 @@ Requisitos para Kotlin Backend Setting Up:
 * REPL - [Running Code Snippets](https://kotlinlang.org/docs/tutorials/quick-run.html)
 * CLI - [Command Line](https://kotlinlang.org/docs/tutorials/command-line.html)
 
-## Kotlin Backend Básico
+## Kotlin Developer Básico
 
-Requisitos para Kotlin Backend Básico:
+Requisitos para Kotlin Developer Básico:
 
 ### Básico
 
@@ -42,9 +42,9 @@ Não corra durante os estudos, pratique muito tudo o que você aprender até ter
 
 Caso você já domine essas coisas, talvez você já seja um(a) **Backend Engineer Intermediário**!
 
-## Kotlin Backend Intermediário
+## Kotlin Developer Intermediário
 
-Requisitos para Kotlin Backend Intermediário:
+Requisitos para Kotlin Developer Intermediário:
 
 ### Functions
 
@@ -92,9 +92,9 @@ Requisitos para Kotlin Backend Intermediário:
 
 Se você já domina tudo isso, então você deve estar no nível **Avançado** ou chegando lá.
 
-## Kotlin Backend Avançado
+## Kotlin Developer Avançado
 
-Requisitos para Kotlin Backend Avançado:
+Requisitos para Kotlin Developer Avançado:
 
 ### DSL
 
