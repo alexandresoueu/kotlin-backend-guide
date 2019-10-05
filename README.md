@@ -34,11 +34,9 @@ Requisitos para Kotlin Backend Básico:
 
 ### Testing
 
-* Setting Up
-* Libs
-* Unit
-* Integration
-* TDD
+* Unit - [Libs](https://spin.atomicobject.com/2018/10/07/kotlin-unit-testing/)
+* Integration - [Unit, Integration](https://github.com/yonigibbs/kotlin-test-integration-test)
+* TDD - [TDD With URM and Kotlin](https://dev.to/sierisimo/tdd-with-urm-and-kotlin-1dj7)
 
 Não corra durante os estudos, pratique muito tudo o que você aprender até ter coragem de falar que sabe aquilo!
 
